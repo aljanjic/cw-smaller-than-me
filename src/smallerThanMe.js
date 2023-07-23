@@ -1,5 +1,4 @@
-function smallerThanMe() {
-  
+function smallerThanMe(nums) {
   
   return [0, 0, 0];
 }
