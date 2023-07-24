@@ -20,4 +20,4 @@ Check this article: https://www.tutorialspoint.com/checking-if-all-array-values-
 - ✅ '[1, 2, 3] should return [0, 0, 0]'
 - ✅ '[1, 2, 0] should return [1, 1, 0]'
 - ✅ '[1, 2, 1] should return [0, 1, 0]'
-- ⚠ '[1, 1, -1, 0, 0] should return [3, 3, 0, 0, 0]'
+- ✅ '[1, 1, -1, 0, 0] should return [3, 3, 0, 0, 0]'
