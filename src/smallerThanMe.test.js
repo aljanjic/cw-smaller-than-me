@@ -5,7 +5,7 @@ describe('smallerThanMe', () => {
     expect(smallerThanMe([1, 2, 3])).toStrictEqual([0, 0, 0]);
   });
 
-  it('[1, 2, 0] should return [1, 1, 0]', () => {
+  it.only('[1, 2, 0] should return [1, 1, 0]', () => {
     expect(smallerThanMe([1, 2, 0])).toStrictEqual([1, 1, 0]);
   });
 
